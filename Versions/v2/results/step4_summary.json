@@ -1,0 +1,8 @@
+{
+  "samples_processed": 2580,
+  "samples_skipped": 20,
+  "samples_failed": 0,
+  "total_gene_calls": 54600,
+  "elapsed_seconds": 10417.7,
+  "mean_time_ms": 0.3
+}

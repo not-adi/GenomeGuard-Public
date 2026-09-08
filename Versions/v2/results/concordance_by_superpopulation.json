@@ -1,0 +1,218 @@
+{
+  "AFR": {
+    "ABCG2": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2B6": {
+      "total": 893,
+      "diplotype_concordance": 98.43
+    },
+    "CYP2C19": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2C9": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    },
+    "CYP3A4": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    },
+    "CYP3A5": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    },
+    "DPYD": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    },
+    "IFNL3": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    },
+    "NUDT15": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    },
+    "SLCO1B1": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    },
+    "TPMT": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    },
+    "UGT1A1": {
+      "total": 893,
+      "diplotype_concordance": 90.15
+    },
+    "VKORC1": {
+      "total": 893,
+      "diplotype_concordance": 100.0
+    }
+  },
+  "AMR": {
+    "ABCG2": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2B6": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2C19": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2C9": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "CYP3A4": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "CYP3A5": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "DPYD": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "IFNL3": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "NUDT15": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "SLCO1B1": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "TPMT": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    },
+    "UGT1A1": {
+      "total": 490,
+      "diplotype_concordance": 99.39
+    },
+    "VKORC1": {
+      "total": 490,
+      "diplotype_concordance": 100.0
+    }
+  },
+  "EAS": {
+    "ABCG2": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2B6": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2C19": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2C9": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "CYP3A4": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "CYP3A5": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "DPYD": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "IFNL3": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "NUDT15": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "SLCO1B1": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "TPMT": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "UGT1A1": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    },
+    "VKORC1": {
+      "total": 585,
+      "diplotype_concordance": 100.0
+    }
+  },
+  "EUR": {
+    "ABCG2": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2B6": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2C19": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "CYP2C9": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "CYP3A4": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "CYP3A5": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "DPYD": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "IFNL3": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "NUDT15": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "SLCO1B1": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "TPMT": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "UGT1A1": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    },
+    "VKORC1": {
+      "total": 632,
+      "diplotype_concordance": 100.0
+    }
+  }
+}

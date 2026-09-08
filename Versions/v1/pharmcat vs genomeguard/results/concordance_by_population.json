@@ -1,0 +1,337 @@
+{
+  "BEB": {
+    "ABCG2": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 99.24
+    },
+    "CYP2B6": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2C19": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2C9": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP3A4": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP3A5": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "DPYD": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "IFNL3": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": "N/A"
+    },
+    "NUDT15": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "SLCO1B1": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "TPMT": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "UGT1A1": {
+      "total": 130,
+      "diplotype_concordance": 98.46,
+      "phenotype_concordance": 100.0
+    },
+    "VKORC1": {
+      "total": 131,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    }
+  },
+  "GIH": {
+    "ABCG2": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2B6": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2C19": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2C9": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP3A4": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP3A5": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "DPYD": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "IFNL3": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": "N/A"
+    },
+    "NUDT15": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "SLCO1B1": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "TPMT": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "UGT1A1": {
+      "total": 102,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "VKORC1": {
+      "total": 103,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    }
+  },
+  "ITU": {
+    "ABCG2": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2B6": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2C19": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2C9": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP3A4": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP3A5": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "DPYD": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "IFNL3": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": "N/A"
+    },
+    "NUDT15": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "SLCO1B1": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "TPMT": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "UGT1A1": {
+      "total": 106,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "VKORC1": {
+      "total": 107,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    }
+  },
+  "PJL": {
+    "ABCG2": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2B6": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2C19": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2C9": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP3A4": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP3A5": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "DPYD": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "IFNL3": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": "N/A"
+    },
+    "NUDT15": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "SLCO1B1": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "TPMT": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "UGT1A1": {
+      "total": 146,
+      "diplotype_concordance": 98.63,
+      "phenotype_concordance": 99.32
+    },
+    "VKORC1": {
+      "total": 146,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    }
+  },
+  "STU": {
+    "ABCG2": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 99.12
+    },
+    "CYP2B6": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2C19": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP2C9": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP3A4": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "CYP3A5": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "DPYD": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "IFNL3": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": "N/A"
+    },
+    "NUDT15": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "SLCO1B1": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "TPMT": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "UGT1A1": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    },
+    "VKORC1": {
+      "total": 114,
+      "diplotype_concordance": 100.0,
+      "phenotype_concordance": 100.0
+    }
+  }
+}

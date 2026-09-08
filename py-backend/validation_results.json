@@ -1,0 +1,1589 @@
+{
+  "system_info": {
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "python_version": "3.14.3",
+    "system": "Windows 11"
+  },
+  "total_cases": 15,
+  "latencies_ms": [
+    2.588000032119453,
+    2.709300024434924,
+    2.9654999962076545,
+    3.0353000620380044,
+    3.0813999474048615,
+    3.128899959847331,
+    3.243700019083917,
+    3.337100031785667,
+    3.3805000130087137,
+    3.4236001083627343,
+    3.6123000318184495,
+    3.837800002656877,
+    4.275300074368715,
+    4.533600062131882,
+    5.68489998113364
+  ],
+  "drugs_analyzed": 46,
+  "patients": [
+    {
+      "id": "SP001",
+      "latency_ms": 5.68489998113364,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": []
+    },
+    {
+      "id": "SP002",
+      "latency_ms": 4.275300074368715,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Intermediate Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "amitriptyline",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "codeine",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "metoprolol",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "nortriptyline",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "tamoxifen",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "tramadol",
+          "risk": "Adjust Dosage"
+        }
+      ]
+    },
+    {
+      "id": "SP003",
+      "latency_ms": 3.6123000318184495,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Intermediate Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Decreased Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "atorvastatin",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "clopidogrel",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "simvastatin",
+          "risk": "Adjust Dosage"
+        }
+      ]
+    },
+    {
+      "id": "SP004",
+      "latency_ms": 3.243700019083917,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": []
+    },
+    {
+      "id": "SP005",
+      "latency_ms": 3.837800002656877,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Poor Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "celecoxib",
+          "risk": "Toxic"
+        },
+        {
+          "drug": "lamotrigine",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "losartan",
+          "risk": "Ineffective"
+        },
+        {
+          "drug": "phenytoin",
+          "risk": "Toxic"
+        },
+        {
+          "drug": "warfarin",
+          "risk": "Toxic"
+        }
+      ]
+    },
+    {
+      "id": "SP006",
+      "latency_ms": 2.9654999962076545,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Decreased Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "atorvastatin",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "simvastatin",
+          "risk": "Adjust Dosage"
+        }
+      ]
+    },
+    {
+      "id": "SP007",
+      "latency_ms": 3.128899959847331,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Intermediate Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Decreased Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "amitriptyline",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "atorvastatin",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "codeine",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "metoprolol",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "nortriptyline",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "simvastatin",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "tamoxifen",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "tramadol",
+          "risk": "Adjust Dosage"
+        }
+      ]
+    },
+    {
+      "id": "SP008",
+      "latency_ms": 3.0813999474048615,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Poor Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "amitriptyline",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "citalopram",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "clopidogrel",
+          "risk": "Ineffective"
+        },
+        {
+          "drug": "escitalopram",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "lansoprazole",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "omeprazole",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "pantoprazole",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "sertraline",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "voriconazole",
+          "risk": "Toxic"
+        }
+      ]
+    },
+    {
+      "id": "SP009",
+      "latency_ms": 3.4236001083627343,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Intermediate Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "azathioprine",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "mercaptopurine",
+          "risk": "Adjust Dosage"
+        }
+      ]
+    },
+    {
+      "id": "SP010",
+      "latency_ms": 4.533600062131882,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Intermediate Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Intermediate Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Intermediate Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Decreased Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "amitriptyline",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "atorvastatin",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "celecoxib",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "clopidogrel",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "codeine",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "losartan",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "metoprolol",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "nortriptyline",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "phenytoin",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "simvastatin",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "tamoxifen",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "tramadol",
+          "risk": "Adjust Dosage"
+        },
+        {
+          "drug": "warfarin",
+          "risk": "Adjust Dosage"
+        }
+      ]
+    },
+    {
+      "id": "SP011",
+      "latency_ms": 3.337100031785667,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Slow Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "isoniazid",
+          "risk": "Toxic"
+        }
+      ]
+    },
+    {
+      "id": "SP012",
+      "latency_ms": 3.0353000620380044,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Positive"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "allopurinol",
+          "risk": "Toxic"
+        },
+        {
+          "drug": "carbamazepine",
+          "risk": "Toxic"
+        },
+        {
+          "drug": "oxcarbazepine",
+          "risk": "Toxic"
+        }
+      ]
+    },
+    {
+      "id": "SP013",
+      "latency_ms": 2.709300024434924,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Positive"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "allopurinol",
+          "risk": "Toxic"
+        },
+        {
+          "drug": "carbamazepine",
+          "risk": "Toxic"
+        },
+        {
+          "drug": "oxcarbazepine",
+          "risk": "Toxic"
+        }
+      ]
+    },
+    {
+      "id": "SP014",
+      "latency_ms": 2.588000032119453,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Non-expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Deficient"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "primaquine",
+          "risk": "Toxic"
+        },
+        {
+          "drug": "rasburicase",
+          "risk": "Toxic"
+        }
+      ]
+    },
+    {
+      "id": "SP015",
+      "latency_ms": 3.3805000130087137,
+      "genes": [
+        {
+          "gene": "ABCG2",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "CYP1A2",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2B6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C19",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C8",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2C9",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP2D6",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A4",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "CYP3A5",
+          "phenotype": "Intermediate Expresser"
+        },
+        {
+          "gene": "DPYD",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "G6PD",
+          "phenotype": "Normal"
+        },
+        {
+          "gene": "HLA-A",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "HLA-B",
+          "phenotype": "Negative"
+        },
+        {
+          "gene": "IFNL3",
+          "phenotype": "Favorable Response"
+        },
+        {
+          "gene": "NAT2",
+          "phenotype": "Rapid Acetylator"
+        },
+        {
+          "gene": "NUDT15",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "SLCO1B1",
+          "phenotype": "Normal Function"
+        },
+        {
+          "gene": "TPMT",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "UGT1A1",
+          "phenotype": "Normal Metabolizer"
+        },
+        {
+          "gene": "VKORC1",
+          "phenotype": "Normal Sensitivity"
+        }
+      ],
+      "alerts": [
+        {
+          "drug": "tacrolimus",
+          "risk": "Adjust Dosage"
+        }
+      ]
+    }
+  ],
+  "latency_stats": {
+    "mean_ms": 3.5224800230935216,
+    "median_ms": 3.337100031785667,
+    "min_ms": 2.588000032119453,
+    "max_ms": 5.68489998113364
+  },
+  "concordance": {
+    "cases_tested": 15,
+    "cpic_matches": 15,
+    "rate": 100.0
+  }
+}

@@ -1,0 +1,14 @@
+# Large data files (downloaded VCFs)
+data/*.vcf.gz
+data/*.vcf.gz.tbi
+data/per_sample_vcfs/
+data/pharmcat_output/
+data/aldy_output/
+data/pypgx_output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pandoc installer
+*.msi

@@ -1,0 +1,228 @@
+{
+  "synthetic": {
+    "CYP1A2": {
+      "cases": [
+        {
+          "alleles": [],
+          "diplotype": "*1/*1",
+          "inferred_phenotype": "Normal Metabolizer",
+          "expected_phenotype": "Normal Metabolizer",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*1F"
+          ],
+          "diplotype": "*1F/*1F",
+          "inferred_phenotype": "Ultra-rapid Metabolizer",
+          "expected_phenotype": "Ultra-rapid Metabolizer",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*1K"
+          ],
+          "diplotype": "*1K/*1K",
+          "inferred_phenotype": "Poor Metabolizer",
+          "expected_phenotype": "Poor Metabolizer",
+          "passed": true
+        }
+      ],
+      "pass": true,
+      "total": 3
+    },
+    "CYP2C8": {
+      "cases": [
+        {
+          "alleles": [],
+          "diplotype": "*1/*1",
+          "inferred_phenotype": "Normal Metabolizer",
+          "expected_phenotype": "Normal Metabolizer",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*2"
+          ],
+          "diplotype": "*2/*2",
+          "inferred_phenotype": "Poor Metabolizer",
+          "expected_phenotype": "Poor Metabolizer",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*3",
+            "*3"
+          ],
+          "diplotype": "*3/*3",
+          "inferred_phenotype": "Poor Metabolizer",
+          "expected_phenotype": "Poor Metabolizer",
+          "passed": true
+        }
+      ],
+      "pass": true,
+      "total": 3
+    },
+    "NAT2": {
+      "cases": [
+        {
+          "alleles": [],
+          "diplotype": "*1/*1",
+          "inferred_phenotype": "Rapid Acetylator",
+          "expected_phenotype": "Rapid Acetylator",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*5A"
+          ],
+          "diplotype": "*5A/*5A",
+          "inferred_phenotype": "Slow Acetylator",
+          "expected_phenotype": "Slow Acetylator",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*6A",
+            "*7B"
+          ],
+          "diplotype": "*6A/*7B",
+          "inferred_phenotype": "Slow Acetylator",
+          "expected_phenotype": "Slow Acetylator",
+          "passed": true
+        }
+      ],
+      "pass": true,
+      "total": 3
+    }
+  },
+  "outside_call": {
+    "G6PD": {
+      "cases": [
+        {
+          "alleles": [],
+          "diplotype": "*1/*1",
+          "inferred_phenotype": "Normal",
+          "expected_phenotype": "Normal",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "Mediterranean"
+          ],
+          "diplotype": "Mediterranean/Mediterranean",
+          "inferred_phenotype": "Deficient",
+          "expected_phenotype": "Deficient",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "A-"
+          ],
+          "diplotype": "A-/A-",
+          "inferred_phenotype": "Deficient",
+          "expected_phenotype": "Deficient",
+          "passed": true
+        }
+      ],
+      "pass": true,
+      "total": 3
+    },
+    "CYP2D6": {
+      "cases": [
+        {
+          "alleles": [],
+          "diplotype": "*1/*1",
+          "inferred_phenotype": "Normal Metabolizer",
+          "expected_phenotype": "Normal Metabolizer",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*4",
+            "*5"
+          ],
+          "diplotype": "*4/*5",
+          "inferred_phenotype": "Poor Metabolizer",
+          "expected_phenotype": "Poor Metabolizer",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*1",
+            "*2x2"
+          ],
+          "diplotype": "*1/*2x2",
+          "inferred_phenotype": "Ultrarapid Metabolizer",
+          "expected_phenotype": "Ultrarapid Metabolizer",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*17",
+            "*41"
+          ],
+          "diplotype": "*17/*41",
+          "inferred_phenotype": "Intermediate Metabolizer",
+          "expected_phenotype": "Intermediate Metabolizer",
+          "passed": true
+        }
+      ],
+      "pass": true,
+      "total": 4
+    },
+    "HLA-A": {
+      "cases": [
+        {
+          "alleles": [],
+          "diplotype": "*1/*1",
+          "inferred_phenotype": "Negative",
+          "expected_phenotype": "Negative",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*31:01"
+          ],
+          "diplotype": "*31:01/*31:01",
+          "inferred_phenotype": "Positive",
+          "expected_phenotype": "Positive",
+          "passed": true
+        }
+      ],
+      "pass": true,
+      "total": 2
+    },
+    "HLA-B": {
+      "cases": [
+        {
+          "alleles": [],
+          "diplotype": "*1/*1",
+          "inferred_phenotype": "Negative",
+          "expected_phenotype": "Negative",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*15:02"
+          ],
+          "diplotype": "*15:02/*15:02",
+          "inferred_phenotype": "Positive",
+          "expected_phenotype": "Positive",
+          "passed": true
+        },
+        {
+          "alleles": [
+            "*58:01"
+          ],
+          "diplotype": "*58:01/*58:01",
+          "inferred_phenotype": "Positive",
+          "expected_phenotype": "Positive",
+          "passed": true
+        }
+      ],
+      "pass": true,
+      "total": 3
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "ABCG2": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 99.67,
+    "pheno_total": 601,
+    "phenotype_match": 599,
+    "mismatches": 2,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 2,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "CYP2B6": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "pheno_total": 601,
+    "phenotype_match": 601,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "CYP2C19": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "pheno_total": 601,
+    "phenotype_match": 601,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "CYP2C9": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "pheno_total": 601,
+    "phenotype_match": 601,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "CYP3A4": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "pheno_total": 601,
+    "phenotype_match": 601,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "CYP3A5": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "pheno_total": 601,
+    "phenotype_match": 601,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "DPYD": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "pheno_total": 601,
+    "phenotype_match": 601,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "IFNL3": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": "N/A",
+    "pheno_total": 0,
+    "phenotype_match": 0,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "NUDT15": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "pheno_total": 601,
+    "phenotype_match": 601,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "SLCO1B1": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "pheno_total": 601,
+    "phenotype_match": 601,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "TPMT": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "pheno_total": 601,
+    "phenotype_match": 601,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "UGT1A1": {
+    "total_comparisons": 598,
+    "diplotype_concordance": 99.33,
+    "phenotype_concordance": 99.83,
+    "pheno_total": 598,
+    "phenotype_match": 597,
+    "mismatches": 4,
+    "triage_breakdown": {
+      "allele_definition_version": 4,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "VKORC1": {
+    "total_comparisons": 601,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "pheno_total": 601,
+    "phenotype_match": 601,
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  }
+}

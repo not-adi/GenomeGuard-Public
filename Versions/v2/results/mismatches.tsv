@@ -1,0 +1,216 @@
+sample_id	population	superpopulation	gene	tool_a	tool_b	triage	Aldy_diplotype	Aldy_phenotype	GenomeGuard_diplotype	GenomeGuard_phenotype	PharmCAT_diplotype	PharmCAT_phenotype
+HG01190	PUR	AMR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG01896	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02009	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02011	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02052	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02284	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02316	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02318	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02332	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02502	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02511	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02558	ACB	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02561	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02563	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02570	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02588	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02590	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02628	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02630	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*36/*37	Intermediate Metabolizer
+HG02634	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02636	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02646	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02647	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02716	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02717	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02771	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02799	GWD	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*6/*18	Poor Metabolizer	*6/*35	Indeterminate
+HG02800	GWD	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*1/*18	Poor Metabolizer	*1/*35	Indeterminate
+HG02807	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*36/*37	Intermediate Metabolizer
+HG02809	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02813	GWD	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*1/*18	Poor Metabolizer	*1/*35	Indeterminate
+HG02819	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02821	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02840	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02879	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02887	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG02938	ESN	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*36/*37	Intermediate Metabolizer
+HG02944	ESN	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG02953	ESN	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*1/*18	Poor Metabolizer	*1/*35	Indeterminate
+HG02954	ESN	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*6/*18	Poor Metabolizer	*6/*35	Indeterminate
+HG03027	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03029	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03045	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG03054	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03091	MSL	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*1/*18	Poor Metabolizer	*1/*35	Indeterminate
+HG03112	ESN	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG03113	ESN	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG03135	ESN	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*36/*37	Intermediate Metabolizer
+HG03246	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03249	GWD	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG03367	ESN	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*36/*37	Intermediate Metabolizer
+HG03368	ESN	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG03369	ESN	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03428	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG03432	MSL	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*6/*18	Poor Metabolizer	*6/*35	Indeterminate
+HG03436	MSL	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*6/*18	Poor Metabolizer	*6/*35	Indeterminate
+HG03445	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*36/*37	Intermediate Metabolizer
+HG03452	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03453	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03460	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG03484	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03486	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03557	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03559	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03563	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03578	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+HG03583	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG03584	MSL	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA18506	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA18507	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*36/*37	Intermediate Metabolizer
+NA18515	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA18516	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA18521	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA18522	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA18852	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA18854	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19026	LWK	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA19028	LWK	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19030	LWK	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA19031	LWK	AFR	UGT1A1	GenomeGuard	PharmCAT	logic_difference			*28/*28	Poor Metabolizer	*37/*37	Poor Metabolizer
+NA19038	LWK	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA19113	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19115	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA19149	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA19190	YRI	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*6/*18	Poor Metabolizer	*6/*35	Indeterminate
+NA19191	YRI	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*1/*18	Poor Metabolizer	*1/*35	Indeterminate
+NA19206	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19208	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19239	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19240	YRI	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19307	LWK	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19316	LWK	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA19451	LWK	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*6/*18	Poor Metabolizer	*6/*35	Indeterminate
+NA19452	LWK	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*1/*18	Poor Metabolizer	*1/*35	Indeterminate
+NA19454	LWK	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19472	LWK	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*1/*18	Poor Metabolizer	*1/*35	Indeterminate
+NA19707	ASW	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19758	MXL	AMR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA19760	MXL	AMR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA19920	ASW	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA20129	ASW	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+NA20274	ASW	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*6/*28	Poor Metabolizer	*6/*37	Poor Metabolizer
+NA20332	ASW	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*1/*28	Intermediate Metabolizer	*1/*37	Intermediate Metabolizer
+NA20334	ASW	AFR	CYP2B6	GenomeGuard	PharmCAT	allele_definition_version			*1/*18	Poor Metabolizer	*1/*35	Indeterminate
+NA20346	ASW	AFR	UGT1A1	GenomeGuard	PharmCAT	allele_definition_version			*28/*28	Poor Metabolizer	*28/*37	Poor Metabolizer
+HG01173	PUR	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*1F	Ultra-rapid Metabolizer		
+HG01173	PUR	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01173	PUR	AMR	CYP3A5	GenomeGuard	Aldy	missing_coverage	*1/*1		*3/*3	Poor Metabolizer		
+HG01173	PUR	AMR	UGT1A1	GenomeGuard	Aldy	missing_coverage	*1/*1		*28/*28	Poor Metabolizer		
+HG01183	PUR	AMR	CYP3A5	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*3	Intermediate Metabolizer		
+HG01184	PUR	AMR	CYP2C19	GenomeGuard	Aldy	logic_difference	*38/*38		*1/*4	Intermediate Metabolizer		
+HG01187	PUR	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01188	PUR	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*1F	Ultra-rapid Metabolizer		
+HG01190	PUR	AMR	CYP2C8	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*2	Intermediate Metabolizer		
+HG01197	PUR	AMR	TPMT	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*3A	Intermediate Metabolizer		
+HG01197	PUR	AMR	UGT1A1	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*28	Intermediate Metabolizer		
+HG01198	PUR	AMR	TPMT	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*3A	Intermediate Metabolizer		
+HG01200	PUR	AMR	CYP3A4	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*22	Intermediate Metabolizer		
+HG01257	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*1F	Ultra-rapid Metabolizer		
+HG01257	CLM	AMR	CYP3A5	GenomeGuard	Aldy	missing_coverage	*1/*1		*3/*3	Poor Metabolizer		
+HG01260	CLM	AMR	CYP2C9	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*2	Intermediate Metabolizer		
+HG01261	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1F/*1F	Ultra-rapid Metabolizer		
+HG01269	CLM	AMR	CYP2C19	GenomeGuard	Aldy	logic_difference	*38/*38		*1/*4	Intermediate Metabolizer		
+HG01272	CLM	AMR	CYP3A5	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*3	Intermediate Metabolizer		
+HG01272	CLM	AMR	UGT1A1	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*28	Intermediate Metabolizer		
+HG01274	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*1F	Ultra-rapid Metabolizer		
+HG01275	CLM	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01275	CLM	AMR	UGT1A1	GenomeGuard	Aldy	missing_coverage	*1/*1		*28/*28	Poor Metabolizer		
+HG01276	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1F/*1F	Ultra-rapid Metabolizer		
+HG01277	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1F/*1F	Ultra-rapid Metabolizer		
+HG01277	CLM	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01279	CLM	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01279	CLM	AMR	UGT1A1	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*6	Intermediate Metabolizer		
+HG01281	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*1F	Ultra-rapid Metabolizer		
+HG01281	CLM	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01284	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1F/*1F	Ultra-rapid Metabolizer		
+HG01284	CLM	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01286	PUR	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*1F	Ultra-rapid Metabolizer		
+HG01286	PUR	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01302	PUR	AMR	CYP2C19	GenomeGuard	Aldy	logic_difference	*38/*38		*1/*4	Intermediate Metabolizer		
+HG01303	PUR	AMR	UGT1A1	GenomeGuard	Aldy	missing_coverage	*1/*1		*28/*28	Poor Metabolizer		
+HG01308	PUR	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*1F	Ultra-rapid Metabolizer		
+HG01311	PUR	AMR	CYP2C19	GenomeGuard	Aldy	logic_difference	*38/*38		*1/*2	Intermediate Metabolizer		
+HG01311	PUR	AMR	CYP2C8	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*2	Intermediate Metabolizer		
+HG01312	PUR	AMR	CYP3A5	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*3	Intermediate Metabolizer		
+HG01325	PUR	AMR	CYP2C8	GenomeGuard	Aldy	missing_coverage	*1/*1		*2/*2	Poor Metabolizer		
+HG01325	PUR	AMR	CYP3A5	GenomeGuard	Aldy	missing_coverage	*1/*1		*3/*3	Poor Metabolizer		
+HG01326	PUR	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01334	GBR	EUR	UGT1A1	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*28	Intermediate Metabolizer		
+HG01342	CLM	AMR	CYP2C8	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*2	Intermediate Metabolizer		
+HG01342	CLM	AMR	CYP2C9	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*2	Intermediate Metabolizer		
+HG01343	CLM	AMR	CYP2C19	GenomeGuard	Aldy	logic_difference	*38/*38		*1/*2	Intermediate Metabolizer		
+HG01343	CLM	AMR	CYP2C8	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*2	Intermediate Metabolizer		
+HG01344	CLM	AMR	CYP3A5	GenomeGuard	Aldy	missing_coverage	*1/*1		*3/*3	Poor Metabolizer		
+HG01347	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*1F	Ultra-rapid Metabolizer		
+HG01348	CLM	AMR	CYP3A5	GenomeGuard	Aldy	missing_coverage	*1/*1		*3/*3	Poor Metabolizer		
+HG01349	CLM	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01351	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*1F	Ultra-rapid Metabolizer		
+HG01351	CLM	AMR	CYP2C19	GenomeGuard	Aldy	logic_difference	*38/*38		*1/*4	Intermediate Metabolizer		
+HG01352	CLM	AMR	CYP3A5	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*3	Intermediate Metabolizer		
+HG01352	CLM	AMR	UGT1A1	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*28	Intermediate Metabolizer		
+HG01355	CLM	AMR	CYP2C19	GenomeGuard	Aldy	logic_difference	*38/*38		*1/*4	Intermediate Metabolizer		
+HG01357	CLM	AMR	CYP2B6	GenomeGuard	Aldy	missing_coverage	*1/*1		*6/*6	Poor Metabolizer		
+HG01357	CLM	AMR	CYP2C19	GenomeGuard	Aldy	logic_difference	*38/*38		*1/*2	Intermediate Metabolizer		
+HG01358	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*1F	Ultra-rapid Metabolizer		
+HG01360	CLM	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01361	CLM	AMR	CYP2C19	GenomeGuard	Aldy	missing_coverage	*38/*38		*1/*1	Normal Metabolizer		
+HG01363	CLM	AMR	CYP2B6	GenomeGuard	Aldy	missing_coverage	*1/*1		*1/*6	Intermediate Metabolizer		
+HG01366	CLM	AMR	CYP1A2	GenomeGuard	Aldy	missing_coverage	*1/*1		*1F/*1F	Ultra-rapid Metabolizer		
+HG01367	CLM	AMR	CYP2C19	GenomeGuard	Aldy	logic_difference	*38/*38		*1/*4	Intermediate Metabolizer		
+HG01173	PUR	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01173	PUR	AMR	CYP3A5	PharmCAT	Aldy	missing_coverage	*1/*1				*3/*3	Poor Metabolizer
+HG01173	PUR	AMR	UGT1A1	PharmCAT	Aldy	missing_coverage	*1/*1				*28/*28	Poor Metabolizer
+HG01183	PUR	AMR	CYP3A5	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*3	Intermediate Metabolizer
+HG01184	PUR	AMR	CYP2C19	PharmCAT	Aldy	logic_difference	*38/*38				*1/*4	Intermediate Metabolizer
+HG01187	PUR	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01197	PUR	AMR	TPMT	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*3A	Intermediate Metabolizer
+HG01197	PUR	AMR	UGT1A1	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*28	Intermediate Metabolizer
+HG01198	PUR	AMR	TPMT	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*3A	Intermediate Metabolizer
+HG01200	PUR	AMR	CYP3A4	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*22	Intermediate Metabolizer
+HG01257	CLM	AMR	CYP3A5	PharmCAT	Aldy	missing_coverage	*1/*1				*3/*3	Poor Metabolizer
+HG01260	CLM	AMR	CYP2C9	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*2	Intermediate Metabolizer
+HG01269	CLM	AMR	CYP2C19	PharmCAT	Aldy	logic_difference	*38/*38				*1/*4	Intermediate Metabolizer
+HG01272	CLM	AMR	CYP3A5	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*3	Intermediate Metabolizer
+HG01272	CLM	AMR	UGT1A1	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*28	Intermediate Metabolizer
+HG01275	CLM	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01275	CLM	AMR	UGT1A1	PharmCAT	Aldy	missing_coverage	*1/*1				*28/*28	Poor Metabolizer
+HG01277	CLM	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01279	CLM	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01279	CLM	AMR	UGT1A1	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*6	Intermediate Metabolizer
+HG01281	CLM	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01284	CLM	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01286	PUR	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01302	PUR	AMR	CYP2C19	PharmCAT	Aldy	logic_difference	*38/*38				*1/*4	Intermediate Metabolizer
+HG01303	PUR	AMR	UGT1A1	PharmCAT	Aldy	missing_coverage	*1/*1				*28/*28	Poor Metabolizer
+HG01311	PUR	AMR	CYP2C19	PharmCAT	Aldy	logic_difference	*38/*38				*1/*2	Intermediate Metabolizer
+HG01312	PUR	AMR	CYP3A5	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*3	Intermediate Metabolizer
+HG01325	PUR	AMR	CYP3A5	PharmCAT	Aldy	missing_coverage	*1/*1				*3/*3	Poor Metabolizer
+HG01326	PUR	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01334	GBR	EUR	UGT1A1	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*28	Intermediate Metabolizer
+HG01342	CLM	AMR	CYP2C9	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*2	Intermediate Metabolizer
+HG01343	CLM	AMR	CYP2C19	PharmCAT	Aldy	logic_difference	*38/*38				*1/*2	Intermediate Metabolizer
+HG01344	CLM	AMR	CYP3A5	PharmCAT	Aldy	missing_coverage	*1/*1				*3/*3	Poor Metabolizer
+HG01348	CLM	AMR	CYP3A5	PharmCAT	Aldy	missing_coverage	*1/*1				*3/*3	Poor Metabolizer
+HG01349	CLM	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01351	CLM	AMR	CYP2C19	PharmCAT	Aldy	logic_difference	*38/*38				*1/*4	Intermediate Metabolizer
+HG01352	CLM	AMR	CYP3A5	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*3	Intermediate Metabolizer
+HG01352	CLM	AMR	UGT1A1	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*28	Intermediate Metabolizer
+HG01355	CLM	AMR	CYP2C19	PharmCAT	Aldy	logic_difference	*38/*38				*1/*4	Intermediate Metabolizer
+HG01357	CLM	AMR	CYP2B6	PharmCAT	Aldy	missing_coverage	*1/*1				*6/*6	Poor Metabolizer
+HG01357	CLM	AMR	CYP2C19	PharmCAT	Aldy	logic_difference	*38/*38				*1/*2	Intermediate Metabolizer
+HG01360	CLM	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01361	CLM	AMR	CYP2C19	PharmCAT	Aldy	missing_coverage	*38/*38				*1/*1	Normal Metabolizer
+HG01363	CLM	AMR	CYP2B6	PharmCAT	Aldy	missing_coverage	*1/*1				*1/*6	Intermediate Metabolizer
+HG01367	CLM	AMR	CYP2C19	PharmCAT	Aldy	logic_difference	*38/*38				*1/*4	Intermediate Metabolizer

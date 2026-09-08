@@ -1,0 +1,17 @@
+{
+  "tools_compared": [
+    "GenomeGuard",
+    "PharmCAT",
+    "Aldy"
+  ],
+  "n_tool_pairs": 3,
+  "pairwise_overall": {
+    "GenomeGuard_vs_PharmCAT": 99.69,
+    "GenomeGuard_vs_Aldy": 52.9,
+    "PharmCAT_vs_Aldy": 53.12
+  },
+  "total_mismatches": 215,
+  "primary_comparison": "GenomeGuard_vs_PharmCAT",
+  "primary_concordance": 99.69,
+  "primary_total_comparisons": 33800
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GenomeGuard",
+  "short_name": "GenomeGuard",
+  "description": "AI-Powered Pharmacogenomics for Indian Hospitals",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1e40",
+  "theme_color": "#0b1e40",
+  "lang": "en-IN",
+  "categories": ["medical", "health", "productivity"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og-image.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "label": "GenomeGuard — AI Pharmacogenomics Platform"
+    }
+  ]
+}

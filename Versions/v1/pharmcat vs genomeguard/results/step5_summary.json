@@ -1,0 +1,7 @@
+{
+  "total_common_pairs": 9015,
+  "tier1_comparisons": 7810,
+  "overall_diplotype_concordance": 99.92,
+  "overall_phenotype_concordance": 99.96,
+  "total_mismatches": 6
+}

@@ -1,0 +1,314 @@
+{
+  "ABCG2": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 97.62,
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 547,
+      "tn": 2053,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "CYP2B6": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 99.46,
+    "phenotype_concordance": 99.46,
+    "cohens_kappa": 0.9909,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 1326,
+      "tn": 1274,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 14,
+    "triage_breakdown": {
+      "allele_definition_version": 14,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "CYP2C19": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 1518,
+      "tn": 1082,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "CYP2C9": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 258,
+      "tn": 2342,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "CYP3A4": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 82,
+      "tn": 2518,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "CYP3A5": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 2087,
+      "tn": 513,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "DPYD": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 63.81,
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 941,
+      "tn": 1659,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "IFNL3": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": "N/A",
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 1526,
+      "tn": 1074,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "NUDT15": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 0.0,
+    "ppv": 1.0,
+    "npv": 0.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 2600,
+      "tn": 0,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "SLCO1B1": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 449,
+      "tn": 2151,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "TPMT": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 100.0,
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 222,
+      "tn": 2378,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  },
+  "UGT1A1": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 96.5,
+    "phenotype_concordance": 92.92,
+    "cohens_kappa": 0.949,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 1642,
+      "tn": 958,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 91,
+    "triage_breakdown": {
+      "allele_definition_version": 90,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 1
+    }
+  },
+  "VKORC1": {
+    "total_comparisons": 2600,
+    "diplotype_concordance": 100.0,
+    "phenotype_concordance": 0.0,
+    "cohens_kappa": 1.0,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "ppv": 1.0,
+    "npv": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "tp": 1386,
+      "tn": 1214,
+      "fp": 0,
+      "fn": 0
+    },
+    "mismatches": 0,
+    "triage_breakdown": {
+      "allele_definition_version": 0,
+      "notation_divergence": 0,
+      "missing_coverage": 0,
+      "logic_difference": 0
+    }
+  }
+}

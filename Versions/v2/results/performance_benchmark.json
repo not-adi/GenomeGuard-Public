@@ -1,0 +1,104 @@
+{
+  "GenomeGuard": {
+    "samples_processed": 2600,
+    "total_elapsed_s": 184.6,
+    "total_gene_calls": 52000,
+    "throughput": {
+      "samples_per_sec": 14.08,
+      "genes_per_sec": 281.69
+    },
+    "latency_ms": {
+      "mean": 63.71,
+      "median": 64.084,
+      "stdev": 9.888,
+      "min": 39.225,
+      "max": 161.879,
+      "p50": 64.084,
+      "p95": 76.714,
+      "p99": 91.322
+    },
+    "memory_kb": {
+      "mean": 476.5,
+      "peak": 489.3,
+      "min": 475.2
+    }
+  },
+  "PharmCAT": {
+    "samples_processed": 2600,
+    "total_elapsed_s": 10417.7,
+    "total_gene_calls": 54600,
+    "throughput": {
+      "samples_per_sec": 0.25,
+      "genes_per_sec": 5.24
+    },
+    "latency_ms": {
+      "mean": 0.265,
+      "median": 0.3,
+      "stdev": 0.084,
+      "min": 0.2,
+      "max": 2.8,
+      "p50": 0.3,
+      "p95": 0.3,
+      "p99": 0.4
+    },
+    "memory_kb": {
+      "mean": 0,
+      "peak": 0,
+      "min": 0,
+      "note": "memory not tracked"
+    },
+    "speedup_vs_genomeguard": 56.4
+  },
+  "Aldy": {
+    "samples_processed": 2600,
+    "total_elapsed_s": 9033.6,
+    "total_gene_calls": 149,
+    "throughput": {
+      "samples_per_sec": 0.29,
+      "genes_per_sec": 0.02
+    },
+    "latency_ms": {
+      "mean": 1.407,
+      "median": 0.7,
+      "stdev": 2.613,
+      "min": 0.2,
+      "max": 25.6,
+      "p50": 0.7,
+      "p95": 9.4,
+      "p99": 12.6
+    },
+    "memory_kb": {
+      "mean": 0,
+      "peak": 0,
+      "min": 0,
+      "note": "memory not tracked"
+    },
+    "speedup_vs_genomeguard": 48.9
+  },
+  "PyPGx": {
+    "samples_processed": 20,
+    "total_elapsed_s": 1.5,
+    "total_gene_calls": 0,
+    "throughput": {
+      "samples_per_sec": 13.33,
+      "genes_per_sec": 0.0
+    },
+    "latency_ms": {
+      "mean": 0.545,
+      "median": 0.5,
+      "stdev": 0.11,
+      "min": 0.4,
+      "max": 0.8,
+      "p50": 0.5,
+      "p95": 0.705,
+      "p99": 0.781
+    },
+    "memory_kb": {
+      "mean": 0,
+      "peak": 0,
+      "min": 0,
+      "note": "memory not tracked"
+    },
+    "speedup_vs_genomeguard": 0.0
+  }
+}

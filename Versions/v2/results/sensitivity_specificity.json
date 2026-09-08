@@ -1,0 +1,218 @@
+{
+  "GenomeGuard_vs_PharmCAT": {
+    "ABCG2": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "CYP2B6": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "CYP2C19": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "CYP2C9": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "CYP3A4": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "CYP3A5": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "DPYD": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "IFNL3": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "NUDT15": {
+      "sensitivity": 1.0,
+      "specificity": 0.0,
+      "ppv": 1.0,
+      "npv": 0.0,
+      "f1": 1.0
+    },
+    "SLCO1B1": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "TPMT": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "UGT1A1": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    },
+    "VKORC1": {
+      "sensitivity": 1.0,
+      "specificity": 1.0,
+      "ppv": 1.0,
+      "npv": 1.0,
+      "f1": 1.0
+    }
+  },
+  "GenomeGuard_vs_Aldy": {
+    "CYP1A2": {
+      "sensitivity": 0.0,
+      "specificity": 0.0,
+      "ppv": 0.0,
+      "npv": 0.0,
+      "f1": 0.0
+    },
+    "CYP2B6": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.8,
+      "f1": 0.0
+    },
+    "CYP2C19": {
+      "sensitivity": 1.0,
+      "specificity": 0.0,
+      "ppv": 0.4286,
+      "npv": 0.0,
+      "f1": 0.6
+    },
+    "CYP2C8": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.6667,
+      "f1": 0.0
+    },
+    "CYP2C9": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.8947,
+      "f1": 0.0
+    },
+    "CYP3A4": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.9167,
+      "f1": 0.0
+    },
+    "CYP3A5": {
+      "sensitivity": 0.0,
+      "specificity": 0.0,
+      "ppv": 0.0,
+      "npv": 0.0,
+      "f1": 0.0
+    },
+    "NAT2": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 1.0,
+      "f1": 0.0
+    },
+    "TPMT": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.875,
+      "f1": 0.0
+    },
+    "UGT1A1": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.1111,
+      "f1": 0.0
+    }
+  },
+  "PharmCAT_vs_Aldy": {
+    "CYP2B6": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.8,
+      "f1": 0.0
+    },
+    "CYP2C19": {
+      "sensitivity": 1.0,
+      "specificity": 0.0,
+      "ppv": 0.4286,
+      "npv": 0.0,
+      "f1": 0.6
+    },
+    "CYP2C9": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.8947,
+      "f1": 0.0
+    },
+    "CYP3A4": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.9167,
+      "f1": 0.0
+    },
+    "CYP3A5": {
+      "sensitivity": 0.0,
+      "specificity": 0.0,
+      "ppv": 0.0,
+      "npv": 0.0,
+      "f1": 0.0
+    },
+    "TPMT": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.875,
+      "f1": 0.0
+    },
+    "UGT1A1": {
+      "sensitivity": 0.0,
+      "specificity": 1.0,
+      "ppv": 0.0,
+      "npv": 0.1111,
+      "f1": 0.0
+    }
+  }
+}

@@ -1,0 +1,15 @@
+# Validation data — do not commit
+data/
+*.vcf
+*.vcf.gz
+*.vcf.bgz
+*.tbi
+*.csi
+
+# Ignore large intermediate TSVs, but keep JSON summaries and generated reports
+results/*.tsv
+results/pharmcat_output/
+
+__pycache__/
+.env
+*.msi
