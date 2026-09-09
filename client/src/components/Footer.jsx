@@ -39,7 +39,6 @@ export default function Footer() {
       { label: "Genes & Drugs", href: "/#genes" },
       { label: "Careers", href: "/careers" },
       { label: "For Hospitals", href: "/#hospital-waitlist" },
-      { label: "Blogs & Publications", href: "/blogs-publications" },
       { label: "Drug Safety Matrix", href: "/safety-matrix" },
       { label: "Pricing", href: "/pricing" },
     ],
